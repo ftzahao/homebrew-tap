@@ -7,4 +7,6 @@ brew install ftzahao/tap/font-microsoft-yahei
 brew install ftzahao/tap/font-simhei
 # 字体：Calibri
 brew install ftzahao/tap/font-calibri
+# 字体：Cambria
+brew install ftzahao/tap/font-cambria
 ```
