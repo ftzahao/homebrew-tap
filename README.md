@@ -9,4 +9,6 @@ brew install ftzahao/tap/font-simhei
 brew install ftzahao/tap/font-calibri
 # 字体：Cambria
 brew install ftzahao/tap/font-cambria
+# 字体：等线
+brew install ftzahao/tap/font-deng
 ```
