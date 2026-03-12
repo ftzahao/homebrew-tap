@@ -13,5 +13,10 @@ cask "font-calibri" do
   end
 
   font "CALIBRI.TTF"
+  font "CALIBRIB.TTF"
+  font "CALIBRII.TTF"
+  font "CALIBRIL.TTF"
+  font "CALIBRILI.TTF"
+  font "CALIBRIZ.TTF"
 
 end
