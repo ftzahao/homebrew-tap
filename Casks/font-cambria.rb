@@ -12,10 +12,10 @@ cask "font-cambria" do
     cask "font-cambria"
   end
 
-  font "CAMBRIA.TTF"
+  font "CAMBRIA.TTC"
   font "CAMBRIAZ.TTF"
   font "CAMBRIAI.TTF"
   font "CAMBRIAB.TTF"
-  font "CAMBRIA-MATH.TTF"
+  font "CAMBRIA-MATH.TTC"
 
 end
