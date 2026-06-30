@@ -11,4 +11,6 @@ brew install ftzahao/tap/font-calibri
 brew install ftzahao/tap/font-cambria
 # 字体：等线
 brew install ftzahao/tap/font-deng
+# 字体：MiSans
+brew install ftzahao/tap/font-mi-sans
 ```
