@@ -4,7 +4,6 @@ cask "font-mi-sans-l3" do
 
   url "https://hyperos.mi.com/font-download/MiSans_L3.zip",
       verified: "hyperos.mi.com"
-  name "MiSans"
   name "MiSans L3"
   desc "MiSans L3 生僻字"
   homepage "https://hyperos.mi.com/font/rare-word"

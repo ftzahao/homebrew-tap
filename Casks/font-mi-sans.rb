@@ -5,7 +5,6 @@ cask "font-mi-sans" do
   url "https://hyperos.mi.com/font-download/MiSans.zip",
       verified: "hyperos.mi.com"
   name "MiSans"
-  name "MiSans"
   desc "MiSans 简体中文"
   homepage "https://hyperos.mi.com/font/details/sc"
 
