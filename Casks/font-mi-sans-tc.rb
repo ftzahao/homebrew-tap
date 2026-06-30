@@ -12,6 +12,7 @@ cask "font-mi-sans-tc" do
     cask "font-mi-sans-tc"
   end
 
+  font "MiSans TC/可变字体/MisansTC VF.ttf"
   font "MiSans TC/ttf/MisansTC-Regular.ttf"
   font "MiSans TC/ttf/MisansTC-Bold.ttf"
   font "MiSans TC/ttf/MisansTC-Light.ttf"
