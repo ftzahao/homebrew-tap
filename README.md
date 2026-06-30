@@ -15,4 +15,8 @@ brew install ftzahao/tap/font-deng
 brew install ftzahao/tap/font-mi-sans
 # 字体：MiSans L3 (生僻字)
 brew install ftzahao/tap/font-mi-sans-l3
+# 字体：MiSans TC (繁体中文)
+brew install ftzahao/tap/font-mi-sans-tc
+# 字体：MiSans Latin (拉丁文)
+brew install ftzahao/tap/font-mi-sans-latin
 ```
