@@ -6,7 +6,7 @@ cask "font-mi-sans" do
       verified: "hyperos.mi.com"
   name "MiSans"
   name "小米MiSans"
-  desc "MiSans 字体"
+  desc "MiSans 简体中文"
   homepage "https://hyperos.mi.com/font/details/sc"
 
   livecheck do
