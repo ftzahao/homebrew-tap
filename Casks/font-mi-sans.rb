@@ -1,6 +1,6 @@
 cask "font-mi-sans" do
   version "1.0"
-  sha256 "2322a01e3138661a3d76980cfd8167f704bbea60445df94a00c79d3d6ae85b57"
+  sha256 "b6aa1fc827035922612df8edf36e5609bca1c5441e25cd57572204569b7b81d9"
 
   url "https://hyperos.mi.com/font-download/MiSans.zip",
       verified: "hyperos.mi.com"
